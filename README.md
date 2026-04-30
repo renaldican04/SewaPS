@@ -546,7 +546,7 @@ Siap melayani Anda! 🎮
 ## 👨‍💻 Developer
 
 **Project Creator & Maintainer:**
-- **Name:** Renaldi Can
+- **Name:** Renaldi Caesar Ariesta Nugroho
 - **GitHub:** [@renaldican04](https://github.com/renaldican04)
 - **Portfolio:** [GitHub Profile](https://github.com/renaldican04)
 
